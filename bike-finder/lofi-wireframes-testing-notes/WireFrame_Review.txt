@@ -1,0 +1,33 @@
+﻿Reviewer #1 (Yina Li)
+* Harold persona
+* Click on menu from the home screen
+   * Confused on what the best match is
+   * Like that you can compare the best match list
+   * Option to be able to go back and see all of the options
+* Having price and item list on the left side would be omre intuitive
+   * Having an accordian style of the additional changes to the price under each item and have 
+* The progress bar on the survey is useful to know/ location is intuitive
+
+
+Reviewer #2 (Chealsea Yuan)
+* Ava persona
+* Would want to go to recommended
+   * Nice to see three options on the main page
+   * Categories/ subsection would lead to clicking on the individual item/ lead to cart page
+* Need more sorting options
+* Having option of seeing customizable options/ non-customizable options
+   * Having the ability to see the description of the bike will be helpful
+* The progress bar is helpful to see throughout the survey
+   * Ask who the user is purchasing the bike for
+* The matches having recommended bikes on the bottom is a nice addition
+* The additional coupon/promotion option is helpful
+
+
+Reviewer #3 (Yina Li)
+* Bob persona
+* Would go to menu to see how I could filter the result of sorting possibility 
+* Considering the environment of the character, looking through the filters, would look for something that’s strong on certain environment 
+   * The product page is needed to see what kind of options are available for the 
+* Would also like to see accessories according to the bike selection
+   * Would like to add from the buy product page
+* Having the price on one side and having all the additional information entered next to the bike would be more intuitive
