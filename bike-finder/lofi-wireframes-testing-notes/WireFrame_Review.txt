@@ -1,4 +1,4 @@
-﻿Reviewer #1 (Yina Li)
+Reviewer #1 (Yina Li)
 * Harold persona
 * Click on menu from the home screen
    * Confused on what the best match is
@@ -31,3 +31,15 @@ Reviewer #3 (Yina Li)
 * Would also like to see accessories according to the bike selection
    * Would like to add from the buy product page
 * Having the price on one side and having all the additional information entered next to the bike would be more intuitive
+
+
+Note To Self:
+* I need to consider many filtering options that is available throughout the website in order to make many persona’s work of finding the right bike easier
+* I need to have more visual clarity on my main page and my search page and have clear indication of where user can go back and forth between pages
+* I need to have a better way of navigating throughout the website (maybe a dropdown menu or hamberger menu bar) and have visible navigation that is consistent
+* I need to refine my shopping page and have less information and make it easier to see and understand
+* I want to refine my user survey and have a better listing/ comparison page for matching results
+* I want to have a more clear indication for user-survey/quiz that can lead new users to easier search for their bike
+* I want to have more information to guide or assist users that have previous knowledge of bikes and knows that’s they’re looking for
+* I want to have more clear and separate category and listing of pages instead of having all of them on one page so user can understand what they’re looking at 
+* I want to make a clickable wireframe
